@@ -5,7 +5,7 @@ checkout scm
     archiveArtifacts artifacts: 'C:/Users/c5280174/Desktop/MyProject.jar' , fingerprint: true
 echo 'Build success'
   }
-  stage('Test sadfsadf'){
+  stage('Test sadfsadf sadfsad'){
 
 echo 'Test success'
 }
